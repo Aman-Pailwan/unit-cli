@@ -1,6 +1,8 @@
 package main
 
-import "github.com/Aman-Pailwan/helper"
+import (
+	"github.com/Aman-Pailwan/unit-cli/helper"
+)
 
 func main() {
 	helper.Start()
